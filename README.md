@@ -104,15 +104,15 @@ The script will:
 
 ### Linear Regression
 
-![Linear Regression](images/LinearRegression.png)
+![Linear Regression](House_price_prediction_model/images/LinearRegression.png)
 
 ### Random Forest
 
-![Random Forest](images/RandomForest.png)
+![Random Forest](House_price_prediction_model/images/RandomForest.png)
 
 ### Gradient Boosting
 
-![Gradient Boosting](images/GradientBoosting.png)
+![Gradient Boosting](House_price_prediction_model/images/GradientBoosting.png)
 
 ---
 
