@@ -143,4 +143,3 @@ You can modify the model parameters in **`house_price.py`** to experiment with d
 
 ---
 
-> 📝 **Made with ❤️ using Python 3.11.9**
