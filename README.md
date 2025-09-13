@@ -4,7 +4,7 @@
 
 This project implements and compares three regression models (**Linear Regression, Random Forest, and Gradient Boosting**) on the **Boston Housing dataset** to predict house prices. The project includes model training, evaluation, visualization, and model persistence.
 
-![Code Execution](images/CodeExec.png)
+![Code Execution](House_price_prediction_model/images/CodeExec.png)
 
 ---
 
